@@ -18,5 +18,3 @@ python movie_ratings_analysis.py
 
 Output: The script will display the average rating of all movies, top 5 highest-rated movies, and top 5 lowest-rated movies.
 
-## Additional Features
-You can enhance this script by adding more features such as genre-specific analysis, visualizations, or a user interface for better interaction.
